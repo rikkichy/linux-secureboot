@@ -28,7 +28,7 @@ Once inside your BIOS/UEFI firmware:
 > **MSI and some other motherboards** have a known quirk where Setup Mode
 > cannot be activated directly.
 >
-> **Workaround:** First **uncheck** *"Include factory keys"* and save. After
+> **Workaround:** First **uncheck** *"Provision Default Factory Keys"* and save. After
 > that, you can enable Setup Mode without issues.
 
 ## 4 · Verify
